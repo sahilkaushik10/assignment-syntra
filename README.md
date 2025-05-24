@@ -29,3 +29,6 @@ POST ---- `/campaign/upload`
 GET ----- `campaign/status:id`
 GET ----- `campaign/summary:id`
 POST ----- `campaign/retry:id`
+
+
+# Postman collection added inside the repo named as --- Syntra-Assignment.postman_collection.json
