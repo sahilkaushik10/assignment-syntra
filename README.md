@@ -31,4 +31,12 @@ GET ----- `campaign/summary:id`
 POST ----- `campaign/retry:id`
 
 
-# Postman collection added inside the repo named as --- Syntra-Assignment.postman_collection.json
+# Postman collection added inside the repo named as 
+
+- Syntra-Assignment.postman_collection.json
+
+
+
+**Deployed url**
+
+- https://assignment-syntra.onrender.com
